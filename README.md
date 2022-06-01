@@ -15,3 +15,17 @@ Sample project for Python Workshop (IE MBD)
 3. A LITTLE BIT BAD: Change `sys.path`
    - Users use the development version
 4. EXCELLENT: Attending the rest of the course
+
+## Python installation
+
+```
+pyenv
+|
+|- miniforge3 (once per machine)
+   |
+   |- conda
+      |
+      | - create an environment (once per project)
+          |
+          | - Isolated Python installation with both conda and pip (every day)
+```

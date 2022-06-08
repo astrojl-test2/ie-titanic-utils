@@ -7,3 +7,6 @@ name = "ie_titanic_utils"
 authors = [{name = "Juan Luis Cano Rodríguez", email = "jcano@faculty.ie.edu"}]
 readme = "README.md"
 dynamic = ["version", "description"]
+dependencies = [
+    "pandas >=1.4",
+]

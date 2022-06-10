@@ -1,1 +1,3 @@
 .  # Depencies declared in pyproject.toml
+
+flask
